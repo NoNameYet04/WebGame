@@ -1,0 +1,142 @@
+{
+    "Animals": [
+        "Aardvark", "Albatross", "Alligator", "Alpaca", "Ant", "Anteater", "Antelope", "Armadillo", "Axolotl", "Baboon",
+        "Badger", "Bat", "Bear", "Beaver", "Bee", "Bison", "Boar", "Buffalo", "Butterfly", "Camel",
+        "Capybara", "Caribou", "Cat", "Caterpillar", "Cheetah", "Chicken", "Chimpanzee", "Chinchilla", "Clam", "Cobra",
+        "Cockroach", "Cod", "Condor", "Cougar", "Cow", "Coyote", "Crab", "Crane", "Crocodile", "Crow",
+        "Deer", "Dingo", "Dog", "Dolphin", "Donkey", "Dove", "Dragonfly", "Duck", "Eagle", "Echidna",
+        "Eel", "Elephant", "Elk", "Emu", "Falcon", "Ferret", "Finch", "Fish", "Flamingo", "Fox",
+        "Frog", "Gazelle", "Gecko", "Gerbil", "Giraffe", "Goat", "Goldfish", "Goose", "Gorilla", "Grasshopper",
+        "Guinea pig", "Hamster", "Hare", "Hawk", "Hedgehog", "Heron", "Hippopotamus", "Horse", "Hummingbird", "Hyena",
+        "Iguana", "Impala", "Jaguar", "Jellyfish", "Kangaroo", "Koala", "Komodo dragon", "Kookaburra", "Lemur", "Leopard",
+        "Lion", "Llama", "Lobster", "Lynx", "Macaw", "Magpie", "Manatee", "Mandrill", "Manta ray", "Meerkat"
+    ],
+    "Birds": [
+        "Sparrow", "Robin", "Blue jay", "Cardinal", "Goldfinch", "Hummingbird", "Woodpecker", "Crow", "Raven", "Magpie",
+        "Pigeon", "Dove", "Parrot", "Macaw", "Cockatoo", "Budgerigar", "Canary", "Finch", "Swallow", "Swift",
+        "Nightingale", "Thrush", "Blackbird", "Starling", "Wren", "Warbler", "Tit", "Chickadee", "Nuthatch", "Treecreeper",
+        "Kingfisher", "Heron", "Egret", "Stork", "Flamingo", "Pelican", "Cormorant", "Gannet", "Booby", "Albatross",
+        "Petrel", "Shearwater", "Gull", "Tern", "Skimmer", "Puffin", "Auk", "Penguin", "Owl", "Hawk",
+        "Eagle", "Falcon", "Kite", "Buzzard", "Vulture", "Condor", "Osprey", "Harrier", "Kestrel", "Merlin",
+        "Peregrine", "Goshawk", "Sparrowhawk", "Barn owl", "Tawny owl", "Snowy owl", "Great horned owl", "Eagle owl", "Screech owl", "Burrowing owl",
+        "Barn swallow", "House martin", "Sand martin", "Purple martin", "Tree swallow", "Bank swallow", "Cliff swallow", "Northern rough-winged swallow", "Cave swallow", "Violet-green swallow",
+        "Barn owl", "Tawny owl", "Snowy owl", "Great horned owl", "Eagle owl", "Screech owl", "Burrowing owl", "Barn swallow", "House martin", "Sand martin"
+    ],
+    "Cities": [
+        "New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose",
+        "Austin", "Jacksonville", "Fort Worth", "Columbus", "Charlotte", "San Francisco", "Indianapolis", "Seattle", "Denver", "Washington",
+        "Boston", "El Paso", "Nashville", "Detroit", "Oklahoma City", "Portland", "Las Vegas", "Memphis", "Louisville", "Baltimore",
+        "Milwaukee", "Albuquerque", "Tucson", "Fresno", "Sacramento", "Kansas City", "Long Beach", "Mesa", "Atlanta", "Colorado Springs",
+        "Virginia Beach", "Raleigh", "Omaha", "Miami", "Oakland", "Minneapolis", "Tulsa", "Wichita", "New Orleans", "Arlington",
+        "Cleveland", "Bakersfield", "Tampa", "Aurora", "Honolulu", "Anaheim", "Santa Ana", "Corpus Christi", "Riverside", "Lexington",
+        "Stockton", "Henderson", "Saint Paul", "St. Louis", "Cincinnati", "Pittsburgh", "Greensboro", "Anchorage", "Plano", "Lincoln",
+        "Orlando", "Irvine", "Newark", "Toledo", "Durham", "Chula Vista", "Fort Wayne", "Jersey City", "St. Petersburg", "Laredo",
+        "Madison", "Chandler", "Buffalo", "Lubbock", "Scottsdale", "Reno", "Glendale", "Gilbert", "Winston-Salem", "North Las Vegas"
+    ],
+    "Colors": [
+        "Red", "Blue", "Green", "Yellow", "Orange", "Purple", "Pink", "Brown", "Black", "White",
+        "Gray", "Cyan", "Magenta", "Maroon", "Olive", "Lime", "Teal", "Navy", "Aqua", "Fuchsia",
+        "Silver", "Gold", "Beige", "Ivory", "Lavender", "Turquoise", "Peach", "Mint", "Coral", "Crimson",
+        "Indigo", "Violet", "Amber", "Emerald", "Sapphire", "Ruby", "Charcoal", "Chocolate", "Copper", "Bronze",
+        "Rose", "Salmon", "Scarlet", "Burgundy", "Mauve", "Mustard", "Periwinkle", "Plum", "Sand", "Tan",
+        "Azure", "Cerulean", "Chartreuse", "Cobalt", "Denim", "Eggplant", "Fern", "Jade", "Khaki", "Lilac",
+        "Mahogany", "Ochre", "Onyx", "Papaya", "Pear", "Pine", "Raspberry", "Saffron", "Sangria", "Sepia",
+        "Slate", "Snow", "Tangerine", "Topaz", "Ultramarine", "Wheat", "Zaffre", "Amethyst", "Blush", "Carmine",
+        "Champagne", "Cinnamon", "Claret", "Clover", "Dandelion", "Ecru", "Flax", "Ginger", "Honey", "Iris",
+        "Lemon", "Mango", "Mulberry", "Nectarine", "Paprika", "Peacock", "Pewter", "Pistachio", "Quartz", "Rosewood"
+    ],
+    "Countries": [
+        "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", "Australia", "Austria",
+        "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bhutan",
+        "Bolivia", "Bosnia and Herzegovina", "Botswana", "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "Cabo Verde", "Cambodia",
+        "Cameroon", "Canada", "Central African Republic", "Chad", "Chile", "China", "Colombia", "Comoros",
+        "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", "Dominican Republic",
+        "East Timor", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji",
+        "Finland", "France", "Gabon", "Gambia", "Georgia", "Germany", "Ghana", "Greece", "Grenada", "Guatemala",
+        "Guinea", "Guinea-Bissau", "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran",
+        "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati",
+        "Korea, North", "Korea, South", "Kosovo", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Lesotho", "Liberia",
+        "Libya", "Liechtenstein", "Lithuania", "Luxembourg", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", "Malta"
+    ],
+    "Fruits": [
+        "Apple", "Banana", "Orange", "Grape", "Mango", "Pineapple", "Strawberry", "Blueberry", "Raspberry", "Blackberry",
+        "Cherry", "Peach", "Plum", "Apricot", "Nectarine", "Kiwi", "Papaya", "Guava", "Lychee", "Dragonfruit",
+        "Passionfruit", "Pomegranate", "Watermelon", "Cantaloupe", "Honeydew", "Lemon", "Lime", "Grapefruit", "Tangerine", "Clementine",
+        "Mandarin", "Coconut", "Avocado", "Fig", "Date", "Persimmon", "Quince", "Starfruit", "Mulberry", "Gooseberry",
+        "Currant", "Elderberry", "Boysenberry", "Huckleberry", "Cranberry", "Tamarind", "Jackfruit", "Durian", "Rambutan", "Mangosteen",
+        "Soursop", "Cherimoya", "Sapodilla", "Longan", "Kumquat", "Pomelo", "Ugli Fruit", "Jujube", "Salak", "Ackee",
+        "Breadfruit", "Cactus Pear", "Carambola", "Cloudberry", "Feijoa", "Jabuticaba", "Langsat", "Loquat", "Medlar", "Miracle Fruit",
+        "Nance", "Pepino", "Pitanga", "Santol", "Soncoya", "Surinam Cherry", "Tamarillo", "White Sapote", "Yuzu", "Ziziphus",
+        "Bilberry", "Chokeberry", "Elderberry", "Goji Berry", "Hawthorn", "Indian Gooseberry", "Jostaberry", "Lingonberry", "Maqui Berry", "Sea Buckthorn",
+        "Serviceberry", "Sloe", "Thimbleberry", "Wineberry", "Wolfberry", "Yumberry", "Zalacca", "Ziziphus", "Acerola", "Atemoya"
+      ],
+    "Hobbies": [
+        "Reading", "Writing", "Drawing", "Painting", "Cooking", "Baking", "Gardening", "Knitting", "Crocheting", "Sewing",
+        "Photography", "Hiking", "Camping", "Fishing", "Birdwatching", "Traveling", "Cycling", "Running", "Swimming", "Dancing",
+        "Singing", "Playing guitar", "Playing piano", "Playing violin", "Playing drums", "Playing chess", "Playing cards", "Playing board games", "Playing video games", "Collecting stamps",
+        "Collecting coins", "Collecting postcards", "Collecting antiques", "Collecting toys", "Collecting books", "Collecting art", "Collecting vinyl records", "Collecting comics", "Collecting figurines", "Collecting autographs",
+        "Yoga", "Meditation", "Pilates", "Weightlifting", "Martial arts", "Boxing", "Kickboxing", "Judo", "Karate", "Taekwondo",
+        "Scrapbooking", "Journaling", "Blogging", "Vlogging", "Podcasting", "Woodworking", "Metalworking", "Pottery", "Sculpting", "Origami",
+        "Calligraphy", "Embroidery", "Quilting", "Beading", "Jewelry making", "Model building", "RC cars", "RC planes", "RC boats", "Astronomy",
+        "Stargazing", "Astrophotography", "Genealogy", "Puzzles", "Sudoku", "Crosswords", "Magic", "Juggling", "Balloon twisting", "Clowning",
+        "Acting", "Improv", "Stand-up comedy", "Public speaking", "Debating", "Learning languages", "Sign language", "Volunteering", "Animal care", "Pet training",
+        "Home brewing", "Wine tasting", "Beer tasting", "Mixology", "Bartending", "Event planning", "Interior decorating", "Feng Shui", "Minimalism", "Upcycling"
+    ],
+    "Languages": [
+      "English", "Spanish", "Mandarin", "Hindi", "French", "Arabic", "Bengali", "Russian", "Portuguese", "Indonesian",
+      "Urdu", "German", "Japanese", "Swahili", "Marathi", "Telugu", "Turkish", "Tamil", "Vietnamese", "Korean",
+      "Italian", "Polish", "Ukrainian", "Romanian", "Dutch", "Greek", "Czech", "Hungarian", "Swedish", "Finnish",
+      "Norwegian", "Danish", "Hebrew", "Thai", "Malay", "Persian", "Pashto", "Punjabi", "Gujarati", "Kannada",
+      "Malayalam", "Sinhala", "Burmese", "Khmer", "Lao", "Mongolian", "Nepali", "Tibetan", "Zulu", "Xhosa",
+      "Afrikaans", "Hausa", "Igbo", "Yoruba", "Amharic", "Somali", "Tigrinya", "Oromo", "Fula", "Shona",
+      "Chewa", "Tswana", "Sesotho", "Venda", "Tsonga", "Swazi", "Ndebele", "Kinyarwanda", "Kirundi", "Lingala",
+      "Luganda", "Chichewa", "Bemba", "Lozi", "Tonga", "Nyanja", "Zulu", "Xhosa", "Afrikaans", "Hausa",
+      "Igbo", "Yoruba", "Amharic", "Somali", "Tigrinya", "Oromo", "Fula", "Shona", "Chewa", "Tswana",
+      "Sesotho", "Venda", "Tsonga", "Swazi", "Ndebele", "Kinyarwanda", "Kirundi", "Lingala", "Luganda", "Chichewa"
+    ],
+    "Musical Instruments": [
+        "Accordion", "Bagpipe", "Banjo", "Bass drum", "Bass guitar", "Bell", "Bongo drum", "Bugle", "Castanets", "Cello",
+        "Clarinet", "Concertina", "Conga", "Cornet", "Cymbal", "Double bass", "Drum", "Electric guitar", "Flute", "French horn",
+        "Glockenspiel", "Gong", "Guitar", "Harmonica", "Harp", "Keyboard", "Mandolin", "Maraca", "Marimba", "Oboe",
+        "Organ", "Piano", "Piccolo", "Recorder", "Saxophone", "Snare drum", "Synthesizer", "Tambourine", "Timpani", "Triangle",
+        "Trombone", "Trumpet", "Tuba", "Ukulele", "Viola", "Violin", "Xylophone", "Zither", "Balalaika", "Bassoon",
+        "Bouzouki", "Cajón", "Carillon", "Castanets", "Celesta", "Chapman Stick", "Chimes", "Clavichord", "Claves", "Contrabassoon",
+        "Crotales", "Cuíca", "Djembe", "Dulcimer", "Ektara", "Erhu", "Fiddle", "Fujara", "Gamelan", "Glass harmonica",
+        "Guqin", "Guzheng", "Handpan", "Hurdy-gurdy", "Kalimba", "Kantele", "Koto", "Lute", "Lyre", "Maracas",
+        "Mbira", "Melodica", "Ocarina", "Pan flute", "Pipa", "Sitar", "Steel drum", "Tabla", "Theremin", "Tromba marina"
+    ],
+    "Sea Creatures": [
+        "Shark", "Dolphin", "Whale", "Octopus", "Squid", "Jellyfish", "Starfish", "Sea urchin", "Sea cucumber", "Crab",
+        "Lobster", "Shrimp", "Prawn", "Clam", "Oyster", "Mussel", "Scallop", "Sea anemone", "Coral", "Sea sponge",
+        "Sea turtle", "Manatee", "Dugong", "Seal", "Sea lion", "Walrus", "Penguin", "Sea otter", "Sea snake", "Moray eel",
+        "Electric eel", "Anglerfish", "Barracuda", "Swordfish", "Marlin", "Tuna", "Mackerel", "Sardine", "Anchovy", "Herring",
+        "Salmon", "Trout", "Cod", "Haddock", "Halibut", "Flounder", "Sole", "Grouper", "Snapper", "Bass",
+        "Mahi-mahi", "Wahoo", "Tarpon", "Bonefish", "Permit", "Pufferfish", "Lionfish", "Stonefish", "Scorpionfish", "Triggerfish",
+        "Parrotfish", "Wrasse", "Butterflyfish", "Angelfish", "Clownfish", "Damselfish", "Blenny", "Gobies", "Dragonet", "Pipefish",
+        "Seahorse", "Stingray", "Manta ray", "Eagle ray", "Sawfish", "Guitarfish", "Skate", "Lamprey", "Hagfish", "Coelacanth",
+        "Nautilus", "Cuttlefish", "Krill", "Plankton", "Barnacle", "Sea slug", "Sea hare", "Sea butterfly", "Sea angel", "Sea dragon"
+    ],
+    "Sports": [
+        "Soccer", "Basketball", "Baseball", "Tennis", "Cricket", "Rugby", "Golf", "Hockey", "Volleyball", "Badminton",
+        "Swimming", "Boxing", "Wrestling", "Cycling", "Running", "Skiing", "Snowboarding", "Skateboarding", "Surfing", "Rowing",
+        "Kayaking", "Canoeing", "Sailing", "Archery", "Fencing", "Gymnastics", "Weightlifting", "Powerlifting", "Bodybuilding", "Martial Arts",
+        "Karate", "Judo", "Taekwondo", "Jiu-Jitsu", "MMA", "Kickboxing", "Table Tennis", "Squash", "Handball", "Lacrosse",
+        "Field Hockey", "Ice Hockey", "Figure Skating", "Speed Skating", "Bobsleigh", "Luge", "Skeleton", "Curling", "Equestrian", "Dressage",
+        "Show Jumping", "Eventing", "Polo", "Rodeo", "Bull Riding", "Motorsport", "Formula 1", "NASCAR", "Rally Racing", "Drag Racing",
+        "Mountain Biking", "BMX", "Triathlon", "Pentathlon", "Decathlon", "Heptathlon", "CrossFit", "Parkour", "Cheerleading", "Dance",
+        "Ballet", "Hip Hop", "Jazz", "Tap Dance", "Ballroom Dance", "Salsa", "Tango", "Flamenco", "Breakdancing", "Capoeira",
+        "Ultimate Frisbee", "Disc Golf", "Dodgeball", "Kickball", "Softball", "Cricket", "Kabaddi", "Sepak Takraw", "Petanque", "Bocce",
+        "Bowling", "Darts", "Snooker", "Billiards", "Pool", "Chess", "Esports", "Video Gaming", "Poker", "Bridge"
+    ],
+    "Vehicles": [
+        "Airplane", "Ambulance", "Amphibious vehicle", "ATV", "Bicycle", "Boat", "Bus", "Canoe", "Car", "Cargo ship",
+        "Convertible", "Cruise ship", "Delivery truck", "Dirt bike", "Electric car", "Fire truck", "Forklift", "Golf cart", "Helicopter", "Hovercraft",
+        "Jet ski", "Kayak", "Limousine", "Minivan", "Motorcycle", "Mountain bike", "Pickup truck", "Police car", "Race car", "RV",
+        "Scooter", "Segway", "Semi-truck", "Skateboard", "Snowmobile", "Speedboat", "Sports car", "Submarine", "SUV", "Taxi",
+        "Tractor", "Train", "Tram", "Truck", "Van", "Yacht", "Zeppelin", "Aerosani", "Ambulance", "Baby carriage",
+        "Barge", "Bulldozer", "Camper", "Cement mixer", "Chopper", "Combine harvester", "Compact car", "Coupe", "Dump truck", "Electric scooter",
+        "Excavator", "Ferry", "Garbage truck", "Glider", "Handcar", "Hatchback", "Hot air balloon", "Jet", "Jetliner", "Lorry",
+        "Moped", "Motorboat", "Mountain bike", "Paddle boat", "Paraglider", "Pedicab", "Pogo stick", "Quad bike", "Rickshaw", "Road roller"
+    ]
+}   
+    

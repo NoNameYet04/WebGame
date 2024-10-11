@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman</title>
+</head>
+<body>
+
+
+    <center style="margin-top: 40px;" ><h1 style="margin: 0; font-size: 50px; padding: 0;">Hangyman</h1></center>
+
+    <div class="mainContainer">
+
+        <div class="gameSetup" id="gameSetup">
+            <div class="formDiv" id="formDiv">
+
+                <div class="formChildDiv">
+                    <label>Category</label>
+                    <select class="selectList" id="selectList">
+                        <option value="">Random</option>
+                        <option value="Animals">Animals</option>
+                        <option value="Birds">Birds</option>
+                        <option value="Cities">Cities</option>
+                        <option value="Colors">Colors</option>
+                        <option value="Countries">Countries</option>
+                        <option value="Fruits">Fruits</option>
+                        <option value="Hobbies">Hobbies</option>
+                        <option value="Languages">Languages</option>
+                        <option value="Musical Instruments">Musical Instruments</option>
+                        <option value="Sea Creatures">Sea Creatures</option>
+                        <option value="Sports">Sports</option>
+                        <option value="Vehicles">Vehicles</option>
+                    </select>
+                    
+                </div>
+            
+                <div class="formChildDiv">
+                    <button id="start" class="startButton" onclick="startGame()">Start game</button>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="canvasDiv" id="canvasDiv">
+            <canvas width="850px" height="400px" id="myCanvas"></canvas>
+        </div>
+        <button class="tryAgainButton" id="tryAgainButton">Try again</button>
+
+
+
+        <div class="keyboardDiv" id="keyboardDiv"></div>
+    </div>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
